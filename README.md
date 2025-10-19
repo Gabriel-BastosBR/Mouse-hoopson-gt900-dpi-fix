@@ -59,7 +59,8 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
    - Isso abrirá diretamente a pasta de instalação:  
      **`C:\Program Files (x86)\HOOPSON\GT-900`**
 
-![Passo 1 - Abrir Local do Arquivo]
+![Passo 1 - Abrir Local do Arquivo](<img width="483" height="258" alt="image" src="https://github.com/user-attachments/assets/a09938ab-24f7-41c0-b9ae-475060da8193" />
+)
 
 ### Passo 2: Faça Backup do Arquivo Original (Recomendado)
 1. Na pasta `C:\Program Files (x86)\HOOPSON\GT-900`, procure pelo arquivo de configuração (geralmente `GT900.cfg`, `config.cfg` ou `settings.cfg`).
@@ -72,10 +73,11 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 ### Passo 3: Substitua pelo Arquivo Corrigido
 1. **Feche completamente o software da Hoopson**:
    - Clique no **X** da janela principal.
-   - Verifique a **bandeja do Windows** (canto inferior direito, perto do relógio).
+   - Verifique a **bandeja do Windows** (<img width="274" height="265" alt="image" src="https://github.com/user-attachments/assets/46e9bb08-e243-4ecb-ad57-ad7f1fed1b76" />
+).
    - Se houver ícone da Hoopson, clique com botão direito > **Sair** ou **Fechar**.
    - **Importante**: O software roda em segundo plano e bloqueia o arquivo .cfg se não for fechado totalmente.
-2. Baixe o [hoopson_gt900_corrigido.cfg](hoopson_gt900_corrigido.cfg) deste repositório.
+2. Baixe o [hoopson_gt900_corrigido.cfg]() deste repositório.
 3. **Copie** o arquivo baixado e **cole na pasta**:  
    **`C:\Program Files (x86)\HOOPSON\GT-900`**
 4. Quando o Windows perguntar "Deseja substituir o arquivo existente?", clique **Sim**.
@@ -88,8 +90,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 - **Antes da correção**: DPI 1000 = movimento lento (500 DPI real).
 - **Depois da correção**: DPI 1000 = movimento normal (1000 DPI real).
 - Teste em jogos ou no desktop: a sensibilidade deve igualar outros mouses.
-- Para medir precisamente, use ferramentas como [MouseTester](https://www.overclock.net/threads/mousetester-software-for-windows.123456/).
-
+- Para medir precisamente, use ferramentas como [MouseTester](https://www.overclock.net/threads/mousetester)
 ![Passo 4 - Teste de Velocidade]
 
 ## Como Reverter para o Original (2 Métodos)
@@ -100,9 +101,10 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
    No **Windows 11**: Vá em **Configurações > Aplicativos > Aplicativos instalados**.
 3. Procure por "Hoopson GT-900" ou "GT900 Software".
 4. Clique em **Desinstalar**.
-5. Reinicie o computador (opcional, mas recomendado).
-6. Baixe o software original novamente em [hoopson.com.br/drivers](https://hoopson.com.br/drivers-de-mouses).
-7. Instale — o arquivo de configuração original será restaurado automaticamente.
+5. (opcional, mas recomendado).
+6. Use o instalador que você já baixou ou baixe o software original novamente em [hoopson.com.br/drivers](https://hoopson.com.br/drivers/?srsltid=AfmBOoqc_C_EUb28RzxasMfArhaJV1IPvNs-8FMB9cEjXowb6ILkE-T9)
+
+8. Instale — o arquivo de configuração original será restaurado automaticamente.
 
 **Vantagem**: Método mais simples, garante volta completa ao estado de fábrica.
 
@@ -123,14 +125,11 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 
 **"Permissão negada ao substituir arquivo"**  
 - **Causa comum**: Software rodando em segundo plano.  
-- **Solução**: Feche completamente pela bandeja do Windows (canto inferior direito).  
+- **Solução**: Feche completamente pela bandeja do Windows [canto inferior direito](<img width="274" height="265" alt="image" src="https://github.com/user-attachments/assets/4979810e-c061-47f7-a82a-2a5433833817" />
+) 
   - Clique com botão direito no ícone da Hoopson > **Sair** ou **Fechar**.  
   - Se não aparecer, use Gerenciador de Tarefas (Ctrl+Shift+Esc > Processos > hoopson.exe > Finalizar tarefa).  
 - Execute o Explorador de Arquivos como Administrador (botão direito > "Executar como administrador").
-
-**"Meu arquivo de configuração tem nome diferente"**  
-- Pode ser `config.cfg`, `settings.cfg`, `gt900_profile.cfg` ou similar.  
-- O importante é fazer backup do arquivo que o software usa para configurações DPI.
 
 **"Após desinstalar, o mouse não funciona mais"**  
 - O mouse funciona sem software (DPI padrão 1000).  
@@ -173,13 +172,13 @@ A: O software roda em segundo plano. Feche pela bandeja do Windows (ícone perto
 A: Sim! Licença MIT. Cite este repositório se postar em fóruns.
 
 ## Suporte
-- Abra uma [issue](https://github.com/seuusuario/hoopson-gt900-dpi-fix/issues) com:  
+- Abra uma [issue](https://github.com/seuusuario/Mouse-hoopson-gt900-dpi-fix/issues) com:  
   - Versão do Windows (10 ou 11)  
   - Nome exato do arquivo .cfg  
   - Screenshot do erro (se houver)
 - Comente neste README se funcionou para você!
 
-**Créditos**: Descoberta e correção por usuário brasileiro após 5 anos de uso no Windows 10 (2025). Testado em Windows 10, confirmado no Windows 11.
+**Créditos**: Descoberta em 2020 por usuário brasileiro após anos de uso e testes no Windows 10. Correção final publicada em 2025. Testado em Windows 10, confirmado no Windows 11.
 
 ---
 
