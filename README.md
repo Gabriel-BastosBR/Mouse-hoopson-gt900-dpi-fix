@@ -175,7 +175,7 @@ A: Sim! Licença MIT. Cite este repositório se postar em fóruns.
   - Screenshot do erro (se houver)
 - Comente neste README se funcionou para você!
 
-**Créditos**: Descoberta em 2020 por usuário brasileiro após anos de uso e testes no Windows 10. Correção final publicada em 2025. Testado em Windows 10, confirmado no Windows 11.
+**Créditos**: Descoberta em 2020 por usuário brasileiro (Gabriel Bastos) Correção final publicada em 2025. Testado em Windows 10, confirmado no Windows 11.
 
 ---
 
