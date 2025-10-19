@@ -169,7 +169,7 @@ A: O software roda em segundo plano. Feche pela bandeja do Windows (ícone perto
 A: Sim! Licença MIT. Cite este repositório se postar em fóruns.
 
 ## Suporte
-- Abra uma [issue](https://github.com/seuusuario/Mouse-hoopson-gt900-dpi-fix/issues) com:  
+- Abra uma [issue](https://github.com/Gabriel-BastosBR/Mouse-hoopson-gt900-dpi-fix/issues) com:  
   - Versão do Windows (10 ou 11)  
   - Nome exato do arquivo .cfg  
   - Screenshot do erro (se houver)
