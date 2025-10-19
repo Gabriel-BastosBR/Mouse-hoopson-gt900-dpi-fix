@@ -87,7 +87,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 - **Antes da correção**: DPI 1000 = movimento lento (500 DPI real).
 - **Depois da correção**: DPI 1000 = movimento normal (1000 DPI real).
 - Teste em jogos ou no desktop: a sensibilidade deve igualar outros mouses.
-- Para medir precisamente, use ferramentas como [MouseTester](https://www.overclock.net/threads/mousetester)
+- Para medir precisamente, use ferramentas como [DPI Analyzer](https://www.mouse-sensitivity.com/dpianalyzer/)
 ![Passo 4 - Teste de Velocidade]
 
 ## Como Reverter para o Original (2 Métodos)
