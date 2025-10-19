@@ -48,8 +48,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 **A correção resolve**: Agora DPI 1000 no GT-900 = DPI 1000 real, igualando exatamente as configurações de amigos/pro players.
 
 ## Arquivos Disponíveis
-- **[hoopson_gt900_corrigido.cfg](hoopson_gt900_corrigido.cfg)**: Arquivo corrigido (aplicar este)
-- **[hoopson_gt900_original.cfg](hoopson_gt900_original.cfg)**: Backup original (para referência)
+- **[hoopson_gt900_corrigido.cfg](Cfg)**: Arquivo corrigido (aplicar este)
 
 ## Instruções Passo a Passo (Método Simples)
 
@@ -59,8 +58,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
    - Isso abrirá diretamente a pasta de instalação:  
      **`C:\Program Files (x86)\HOOPSON\GT-900`**
 
-![Passo 1 - Abrir Local do Arquivo](<img width="483" height="258" alt="image" src="https://github.com/user-attachments/assets/a09938ab-24f7-41c0-b9ae-475060da8193" />
-)
+![Passo 1 - Abrir Local do Arquivo](<img width="483" height="258" alt="image" src="https://github.com/user-attachments/assets/a09938ab-24f7-41c0-b9ae-475060da8193" />)
 
 ### Passo 2: Faça Backup do Arquivo Original (Recomendado)
 1. Na pasta `C:\Program Files (x86)\HOOPSON\GT-900`, procure pelo arquivo de configuração (geralmente `GT900.cfg`, `config.cfg` ou `settings.cfg`).
@@ -73,8 +71,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 ### Passo 3: Substitua pelo Arquivo Corrigido
 1. **Feche completamente o software da Hoopson**:
    - Clique no **X** da janela principal.
-   - Verifique a **bandeja do Windows** (<img width="274" height="265" alt="image" src="https://github.com/user-attachments/assets/46e9bb08-e243-4ecb-ad57-ad7f1fed1b76" />
-).
+   - Verifique a **bandeja do Windows** (<img width="274" height="265" alt="image" src="https://github.com/user-attachments/assets/46e9bb08-e243-4ecb-ad57-ad7f1fed1b76" />)
    - Se houver ícone da Hoopson, clique com botão direito > **Sair** ou **Fechar**.
    - **Importante**: O software roda em segundo plano e bloqueia o arquivo .cfg se não for fechado totalmente.
 2. Baixe o [hoopson_gt900_corrigido.cfg]() deste repositório.
