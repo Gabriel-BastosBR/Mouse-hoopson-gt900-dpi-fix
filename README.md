@@ -59,7 +59,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
    - Isso abrirá diretamente a pasta de instalação:  
      **`C:\Program Files (x86)\HOOPSON\GT-900`**
 
-![Passo 1 - Abrir Local do Arquivo](imagens/passo1-abrir-local.png)
+![Passo 1 - Abrir Local do Arquivo]
 
 ### Passo 2: Faça Backup do Arquivo Original (Recomendado)
 1. Na pasta `C:\Program Files (x86)\HOOPSON\GT-900`, procure pelo arquivo de configuração (geralmente `GT900.cfg`, `config.cfg` ou `settings.cfg`).
@@ -67,7 +67,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 3. Cole em outra pasta (ex.: Desktop) e renomeie para `GT900_original_backup.cfg`.
    - **Opcional mas recomendado**: Assim você tem o original salvo, mesmo se desinstalar.
 
-![Passo 2 - Backup do Arquivo](imagens/passo2-backup.png)
+![Passo 2 - Backup do Arquivo]
 
 ### Passo 3: Substitua pelo Arquivo Corrigido
 1. **Feche completamente o software da Hoopson**:
@@ -82,7 +82,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 5. Abra o software da Hoopson — ele carregará automaticamente a nova configuração.
 6. Teste: Configure DPI 1000 e mova o mouse. Agora deve ter velocidade normal!
 
-![Passo 3 - Substituição](imagens/passo3-substituir.png)
+![Passo 3 - Substituição]
 
 ### Passo 4: Verificação Rápida
 - **Antes da correção**: DPI 1000 = movimento lento (500 DPI real).
@@ -90,7 +90,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 - Teste em jogos ou no desktop: a sensibilidade deve igualar outros mouses.
 - Para medir precisamente, use ferramentas como [MouseTester](https://www.overclock.net/threads/mousetester-software-for-windows.123456/).
 
-![Passo 4 - Teste de Velocidade](imagens/passo4-teste.png)
+![Passo 4 - Teste de Velocidade]
 
 ## Como Reverter para o Original (2 Métodos)
 
