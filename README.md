@@ -48,7 +48,7 @@ O bug de DPI criava **resultados inconsistentes** que frustravam especialmente j
 **A correção resolve**: Agora DPI 1000 no GT-900 = DPI 1000 real, igualando exatamente as configurações de amigos/pro players.
 
 ## Arquivos Disponíveis
-- **[hoopson_gt900_corrigido.cfg](Cfg.ini)**: Arquivo corrigido (aplicar este)
+- **[hoopson_gt900_corrigido.cfg](Cfg.zip)**: Arquivo corrigido (aplicar este)
 
 ## Instruções Passo a Passo (Método Simples)
 
